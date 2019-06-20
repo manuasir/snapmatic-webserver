@@ -1,0 +1,37 @@
+{
+  "name": "snapmatic-webservice",
+  "version": "1.0.0",
+  "description": "Lightweight webservice that receives Snapmatic pictures and publish them in your Telegram group.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.16.4",
+    "multer": "^1.4.1",
+    "telebot": "^1.2.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/islos-efe-eme/snapmatic-webservice.git"
+  },
+  "keywords": [
+    "snapmatic",
+    "webservice",
+    "telegram",
+    "bot",
+    "pictures"
+  ],
+  "author": "manuasir",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/islos-efe-eme/snapmatic-webservice/issues"
+  },
+  "homepage": "https://github.com/islos-efe-eme/snapmatic-webservice#readme"
+}
