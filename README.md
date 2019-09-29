@@ -43,5 +43,5 @@ $ docker run --rm -it -p 3000:3000/tcp snapmatic:latest
 
 # Authors and contributors
 
-- @manuasir (author)
-- @jesusgn90 (contributor)
+- [@manuasir](https://github.com/manuasir) (author)
+- [@jesusgn90](https://github.com/jesusgn90) (contributor)
